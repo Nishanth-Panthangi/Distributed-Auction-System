@@ -1,6 +1,6 @@
 package project.CS412.AuctionSystem.model;
 
-
+// Test Commit
 public class User {
 
     private Long id;
