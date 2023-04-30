@@ -1,6 +1,10 @@
 package project.CS412.AuctionSystem.model;
 
-// Test Commit
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="users")
 public class User {
 
     private Long id;
